@@ -1,0 +1,7 @@
+server: 
+  port: 6668
+
+spring:
+  profiles: dev
+  application: 
+   name: miscoservice-dept-provider
