@@ -1,7 +1,7 @@
 server: 
-  port: 6667
+  port: 7781
 
 spring:
   profiles: dev
   application: 
-   name: miscoservice-dept-provider
+   name: miscoservice-dept-provider-dev
